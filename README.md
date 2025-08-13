@@ -19,5 +19,9 @@ This function appends new content to an existing file without removing the previ
 Like in the writeToFile() function, cin.ignore() is used to handle any leftover input issues. After the user finishes entering data, the file is closed, and a message is displayed confirming that the content was successfully appended.
 The readFile() function is used to read and display the contents of the specified file. It opens the file using ifstream and reads it line by line using getline(). Each line is printed to the console. If the file doesn’t exist or cannot be opened, an error message is shown. The displayed content is wrapped between header and footer lines for better readability.
 
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/056ca241-5190-4e3a-8f4b-7c4b0a03eb0c)
+
 
 
